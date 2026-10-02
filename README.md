@@ -1,4 +1,3 @@
-[README.md](https://github.com/user-attachments/files/32946440/README.md)
 # ⚡ NOVA SMARTOPS
 > *"Predict problems before they become cancelled orders."*
 
